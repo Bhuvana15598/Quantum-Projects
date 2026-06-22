@@ -13,6 +13,7 @@ This project demonstrates:
 
 Output:
 
+<img width="2382" height="738" alt="josephson_junction" src="https://github.com/user-attachments/assets/5ba32b65-43fd-40de-8bf3-a108ab7d5d73" />
 
 
 The program generates:
