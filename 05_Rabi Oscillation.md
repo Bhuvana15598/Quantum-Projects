@@ -11,7 +11,7 @@ This project visualizes:
    
 Output:
 
-
+<img width="1500" height="900" alt="Image" src="https://github.com/user-attachments/assets/d237cbcb-6be7-43e9-9d7f-97f8ad8fd19b" />
 
 The program:
 
