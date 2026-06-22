@@ -34,6 +34,3 @@ Learning Objective:
 
 Understand how Josephson junctions create quantized energy levels and form the foundation of superconducting qubit architectures used in modern quantum computing.
 
-Applications
-
-Used in quantum processors developed by companies such as IBM and Google.
