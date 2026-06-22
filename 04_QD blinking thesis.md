@@ -12,7 +12,7 @@ This project demonstrates:
 
 Output:
 
-
+<img width="2382" height="768" alt="Image" src="https://github.com/user-attachments/assets/51397f99-15d8-4b89-8fe8-c4e8f91135ae" />
 
 The program generates:
 
