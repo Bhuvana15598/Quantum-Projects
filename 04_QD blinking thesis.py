@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # ══════════════════════════════════════════════════════
-# PROJECT 3 — Si Quantum Dot Blinking Model
+# PROJECT 4 — Si Quantum Dot Blinking Model
 # Based on: M.Sc. Thesis, KTH Royal Institute of Technology
 #
 # Your thesis measured:
